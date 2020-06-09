@@ -28,10 +28,10 @@ Download and install the extension with the extension manager module.
 
 ### Versions and support
 
-| bootstrap_gridelements  | TYPO3        | PHP       | Support/Development                  |
-| ----------------------  | ------------ | --------- | ------------------------------------ |
-| 1.1.0                   | 9.x - 10.x   | 7.2 - 7.4 | Features, Bugfixes, Security updates |
-| 1.0.0                   | 8.7.x - 9.x  | 7.0 - 7.4 | Bugfixes, Security updates           |
+| new_bootstrap_gridelements  | TYPO3        | PHP       | Support/Development                  |
+| --------------------------- | ------------ | --------- | ------------------------------------ |
+| 1.1.0                       | 9.x - 10.x   | 7.2 - 7.4 | Features, Bugfixes, Security updates |
+| 1.0.0                       | 8.7.x        | 7.0 - 7.4 | Bugfixes, Security updates           |
 
 ### Changelog
 

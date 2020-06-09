@@ -6,11 +6,5 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.1.0]
-### Fixed
-- Select Type
-### Removed
-- TYPO3 Verion 8 support
-
-## [1.0.0] - 2019-01-09
-- Initial Release
+## [1.0.0] - 2020-06-09
+- Initial Release for TYPO3 Version 8
