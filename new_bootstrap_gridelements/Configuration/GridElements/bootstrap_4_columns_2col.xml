@@ -15,6 +15,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-lg-1</numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-lg-2</numIndex></numIndex>
@@ -38,6 +39,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-lg-1</numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-lg-2</numIndex></numIndex>
@@ -70,6 +72,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-1</numIndex></numIndex>
@@ -93,6 +96,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-1</numIndex></numIndex>
@@ -125,6 +129,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-md-1</numIndex></numIndex>
@@ -148,6 +153,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-md-1</numIndex></numIndex>
@@ -180,6 +186,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-xl-1</numIndex></numIndex>
@@ -203,6 +210,7 @@
 							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-xl-1</numIndex></numIndex>

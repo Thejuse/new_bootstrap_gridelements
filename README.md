@@ -4,7 +4,7 @@
 ## Features
 - Elements for 2, 3, 4 Columns
 - English and German Translation
-- TYPO3 8 & 9
+- TYPO3 9 & 10
 - Documentantion
 
 ## Usage
@@ -22,15 +22,16 @@ Download and install the extension with the extension manager module.
 
 1. Activate Extension in Extensionmanager
 2. Include the static TypoScript of the extension and Gridelements
-3. Gridelements must be above the bootstrap_gridelements extension
+3. Gridelements must be above the new_bootstrap_gridelements extension
 
 ## Administartion corner
 
 ### Versions and support
 
-| bootstrap_gridelements | TYPO3        | PHP       | Support/Development                  |
-| ---------------------- | ------------ | --------- | ------------------------------------ |
-| 1.x                    | 8.7.x - 9.x  | 7.0 - 7.3 | Features, Bugfixes, Security updates |
+| bootstrap_gridelements  | TYPO3        | PHP       | Support/Development                  |
+| ----------------------  | ------------ | --------- | ------------------------------------ |
+| 1.1.0                   | 9.x - 10.x   | 7.2 - 7.4 | Features, Bugfixes, Security updates |
+| 1.0.0                   | 8.7.x - 9.x  | 7.0 - 7.4 | Bugfixes, Security updates           |
 
 ### Changelog
 
