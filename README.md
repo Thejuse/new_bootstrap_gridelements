@@ -35,7 +35,7 @@ Download and install the extension with the extension manager module.
 
 ### Changelog
 
-Please look [here in the changelog.md](https://github.com/Thejuse/bootstrap_gridelements/blob/master/CHANGELOG.md)
+Please look [here in the changelog.md](https://github.com/Thejuse/new_bootstrap_gridelements/blob/master/CHANGELOG.md)
 
 ### Release Management
 bootstrap_gridelements uses semantic versioning which basically means for you, that
