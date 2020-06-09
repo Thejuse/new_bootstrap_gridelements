@@ -1,4 +1,4 @@
-# bootstrap_gridelements
+# new_bootstrap_gridelements
 > TYPO3 Extension for adding Bootstrap 4 Grid to GridElements
 
 ## Features
@@ -15,8 +15,8 @@ Download and install the extension with the extension manager module.
 
 #### Manual Installation (FTP required)
 
-- Download extension via GitHub or [TYPO3-Ter](https://extensions.typo3.org/extension/bootstrap_gridelements/)
-- Go to your FTP and navigate to `/typo3conf/ext/` and upload the bootstrap_gridelements folder there
+- Download extension via GitHub or [TYPO3-Ter](https://extensions.typo3.org/extension/new_bootstrap_gridelements/)
+- Go to your FTP and navigate to `/typo3conf/ext/` and upload the new_bootstrap_gridelements folder there
 
 ### Minimal Setup
 
@@ -34,7 +34,7 @@ Download and install the extension with the extension manager module.
 
 ### Changelog
 
-Please look [here in the changelog.md](https://github.com/Thejuse/bootstrap_gridelements/blob/master/CHANGELOG.md)
+Please look [here in the changelog.md](https://github.com/Thejuse/new_bootstrap_gridelements/blob/master/CHANGELOG.md)
 
 ### Release Management
 bootstrap_gridelements uses semantic versioning which basically means for you, that
@@ -43,4 +43,4 @@ bootstrap_gridelements uses semantic versioning which basically means for you, t
 - **minor updates** (e.g. 1.0.0 => 1.1.0) includes new features and smaller tasks without breaking changes.
 - **major updates** (e.g. 1.0.0 => 2.0.0) breaking changes wich can be refactorings, features or bugfixes.
 
-&copy; 2019 [Koerbler. - Digital Erfolgreich!](https://www.koerbler.com/)
+&copy; 2019-2020 [Julian Seidl](https://www.jseidl.at/)

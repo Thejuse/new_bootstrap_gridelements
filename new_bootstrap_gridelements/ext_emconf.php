@@ -1,11 +1,10 @@
 <?php
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Bootstrap Gridelements',
+    'title' => 'New Bootstrap Gridelements',
     'description' => 'Build grids easy with Bootstrap 4 & Gridelements.',
     'category' => 'plugin',
     'author' => 'Julian Seidl',
-    'author_email' => 'support@koerbler.com',
-    'author_company' => 'Koerbler. - Digital Erfolgreich!',
+    'author_email' => 'hi@jseidl.at',
     'state' => 'stable',
     'uploadfolder' => 0,
     'createDirs' => '',
