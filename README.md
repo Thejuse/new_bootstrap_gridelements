@@ -4,7 +4,7 @@
 ## Features
 - Elements for 2, 3, 4 Columns
 - English and German Translation
-- TYPO3 9 & 10
+- TYPO3 8 , 9 & 10
 - Documentantion
 
 ## Usage
@@ -28,14 +28,15 @@ Download and install the extension with the extension manager module.
 
 ### Versions and support
 
-| bootstrap_gridelements  | TYPO3        | PHP       | Support/Development                  |
-| ----------------------  | ------------ | --------- | ------------------------------------ |
-| 1.1.0                   | 9.x - 10.x   | 7.2 - 7.4 | Features, Bugfixes, Security updates |
-| 1.0.0                   | 8.7.x - 9.x  | 7.0 - 7.4 | Bugfixes, Security updates           |
+| new_bootstrap_gridelements  | TYPO3        | PHP       | Support/Development                  |
+| --------------------------- | ------------ | --------- | ------------------------------------ |
+| 10.0.0                      | 9.x - 10.x   | 7.2 - 7.4 | Features, Bugfixes, Security updates |
+| 9.0.0                       | 9.x - 9.x    | 7.2 - 7.4 | Features, Bugfixes, Security updates |
+| 8.x                         | 8.7.x        | 7.0 - 7.4 | Bugfixes, Security updates           |
 
 ### Changelog
 
-Please look [here in the changelog.md](https://github.com/Thejuse/new_bootstrap_gridelements/blob/master/CHANGELOG.md)
+Please look [here in the changelog.md](https://github.com/Thejuse/bootstrap_gridelements/blob/master/CHANGELOG.md)
 
 ### Release Management
 bootstrap_gridelements uses semantic versioning which basically means for you, that
