@@ -7,14 +7,15 @@
 		<general>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.normal</sheetTitle>
+					<sheetTitle>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.normal</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_md_1 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-lg-1</numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-lg-2</numIndex></numIndex>
@@ -35,9 +36,10 @@
 					</width_column_md_1>
 					<width_column_md_2 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
 									<numIndex index="0" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-lg-1</numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-lg-2</numIndex></numIndex>
@@ -62,16 +64,17 @@
 		<columns_xs>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.xs</sheetTitle>
+					<sheetTitle>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.xs</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_xs_1 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-3</numIndex></numIndex>
@@ -90,11 +93,12 @@
 					</width_column_xs_1>
 					<width_column_xs_2 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-3</numIndex></numIndex>
@@ -117,16 +121,17 @@
 		<columns_sm>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.md</sheetTitle>
+					<sheetTitle>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.md</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_sm_1 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-md-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-md-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-md-3</numIndex></numIndex>
@@ -145,11 +150,12 @@
 					</width_column_sm_1>
 					<width_column_sm_2 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-md-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-md-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-md-3</numIndex></numIndex>
@@ -172,16 +178,17 @@
 		<columns_lg>
 			<ROOT type="array">
 				<TCEforms>
-					<sheetTitle>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.xl</sheetTitle>
+					<sheetTitle>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.sizename.xl</sheetTitle>
 				</TCEforms>
 				<el type="array">
 					<width_column_lg_1 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col1</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-xl-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-xl-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-xl-3</numIndex></numIndex>
@@ -200,11 +207,12 @@
 					</width_column_lg_1>
 					<width_column_lg_2 type="array">
 						<TCEforms type="array">
-							<label>LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
+							<label>LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.size.col2</label>
 							<config type="array">
 								<type>select</type>
+								<renderType>selectSingle</renderType>
 								<items type="array">
-									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
+									<numIndex index="0" type="array"><numIndex index="0">LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:form.notdefined</numIndex><numIndex index="1"></numIndex></numIndex>
 									<numIndex index="1" type="array"><numIndex index="0">1/12</numIndex><numIndex index="1">col-xl-1</numIndex></numIndex>
 									<numIndex index="2" type="array"><numIndex index="0">2/12</numIndex><numIndex index="1">col-xl-2</numIndex></numIndex>
 									<numIndex index="3" type="array"><numIndex index="0">3/12</numIndex><numIndex index="1">col-xl-3</numIndex></numIndex>
