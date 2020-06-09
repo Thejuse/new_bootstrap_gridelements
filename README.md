@@ -4,7 +4,7 @@
 ## Features
 - Elements for 2, 3, 4 Columns
 - English and German Translation
-- TYPO3 8 , 9 & 10
+- TYPO3 9 & 10
 - Documentantion
 
 ## Usage
