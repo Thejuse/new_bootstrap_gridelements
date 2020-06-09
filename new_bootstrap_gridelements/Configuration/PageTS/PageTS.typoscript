@@ -1,7 +1,7 @@
 tx_gridelements.setup.uebb_bootstrap_2col {
-  	title = LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:col.col2.title
-	description = LLL:EXT:bootstrap_gridelements/Resources/Private/Language/locallang.xlf:col.col2.description
-	flexformDS = FILE:EXT:bootstrap_gridelements/Configuration/GridElements/bootstrap_4_columns_2col.xml 
+  	title = LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:col.col2.title
+	description = LLL:EXT:new_bootstrap_gridelements/Resources/Private/Language/locallang.xlf:col.col2.description
+	flexformDS = FILE:EXT:new_bootstrap_gridelements/Configuration/GridElements/bootstrap_4_columns_2col.xml 
 
 	config {
 		colCount = 2
