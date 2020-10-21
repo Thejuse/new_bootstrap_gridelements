@@ -10,7 +10,7 @@
 ## Usage
 ### Installation
 
-#### Installation as extension from TYPO3 Extension Repository (TER) (recomened)
+#### Installation as extension from TYPO3 Extension Repository (TER) (recommended)
 Download and install the extension with the extension manager module.
 
 #### Manual Installation (FTP required)
